@@ -2,7 +2,7 @@
 
 
 - This project was to recreate the google home page. 
-- The purpose of this project was to learn the basics of Bootsrap.
+- The purpose of this project was to learn html and css.
 
 
 ## Live project
